@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanhle
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on gaming project
 - 📫 How to reach me idk
 
